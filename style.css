@@ -1,0 +1,223 @@
+.title{
+   display: inline;
+   font-size: 20px;
+
+   font-weight: 400;
+
+
+}
+body{
+   font-family: inter, sans-serif;
+}
+.bu1{
+   display: inline;
+}
+.first{
+   display: flex;
+   justify-content: space-between;
+margin: 20px 40px 20px 40px;
+}
+
+/* header end */
+
+
+.sec1{
+   background-image: url("https://i.ibb.co/vVYDV41/Hero-bg.png");
+   width: full;
+   height: 450px;
+   background-repeat: no-repeat;
+margin-top: 20px;
+}
+
+.img2{
+   display: flex;
+   justify-content: center;
+   width: 240px;
+   height: 240px;
+   margin: auto;
+}
+
+.bannertext{
+
+text-align: center;
+
+}
+.btext{
+   font-size: 35px;
+width: 630px;
+color: #0D1321;
+margin: auto;
+line-height: 40px;
+
+}
+.bp{
+   padding-top: 20px;
+   margin: auto;
+   width: 500px;
+   font-size: 10px;
+   padding-bottom: 20px;
+}
+.b1{
+   margin: auto;
+   background-color: black;
+   color: white;
+   padding: 5px 10px;
+   border-radius: 7px;
+}
+
+/* banner section end */
+
+.ar2{
+text-align: center;
+margin: 30px 0px;
+
+}
+.p3{
+text-align: center;
+width: 852px;
+margin: auto;
+
+}
+
+.sec4{
+   display: flex;
+   justify-content: space-around;
+   width: 850px;
+   margin: auto;
+   padding-top: 30px;
+
+}
+.art4{
+width: 477px;
+height: 219px;
+}
+.img4{
+   width: 274px;
+   height: 240px;
+}
+.h4{
+   width: 390px;
+   font-size: 24px;
+   word-spacing: 10px;
+   line-height: 30px;
+}
+.b4{
+   padding: 10px 20px;
+}
+/* sectiopn 4 complite */
+
+.sec5{
+
+
+   width: 1176px;
+   height: 550px;
+   display: flex;
+   justify-content: center;
+   margin: auto;
+
+}
+.imb{
+   border-radius: 10px;
+   margin: 30px 0px;
+}
+.card1{
+   width: 364px;
+   height: 259px;
+   border-radius: 10px;
+   padding: 60px 40px;
+  
+   background-color: #FFF6F4;
+}
+.card2{
+   width: 364px;
+   height: 259px;
+   border-radius: 10px;
+   padding: 60px 40px;
+  
+   background-color:#F2F6FE;
+}
+.card3{
+   width: 364px;
+   height: 259px;
+   border-radius: 10px;
+   padding: 60px 40px;
+  
+   background-color:#FFFDF2;
+}
+.cols1{
+   border:2px #caced6 solid;
+margin: auto; margin-top: 30px;
+   width: 1140px;
+   height: 200px;
+   border-radius: 10px;
+   padding: 60px 40px;
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  justify-content: center;
+  
+}
+.p5{
+   line-height: 30px;
+}
+.h5{
+   margin: 20px 0px;
+}
+.card{
+   display: flex;
+   justify-content: space-between;
+   gap: 30px;
+}
+a{
+   color: black;
+}
+
+
+.tion{
+   margin: 70px 10px;
+}
+
+
+/* section 5 complite */
+
+
+.se6{
+   background-image: url("https://i.ibb.co/WczgF3c/handshake.jpg");
+   width: full;
+   background-position: center;
+   height: 313px;
+   background-repeat: no-repeat;
+margin-top: 20px;
+border-radius: 5px;
+color: white;
+align-items: center  ;
+display: flex;
+justify-content: center;
+
+
+
+}
+.in6{
+   width: 313px;
+   height: 19px;
+   padding: 5px 100px 5px 10px;
+   border-radius: 5px;
+   margin-top: 20px;
+}
+.submit{
+   width: 120px;
+   padding: 7px 10px;
+   border-radius: 5px;
+}
+/* section 6 complite */
+
+
+.icone{
+   font-size: 28px;
+   margin: 20px 0px;
+   
+}
+.sec7{
+   display: flex;
+   justify-content: space-between;
+}
