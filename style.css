@@ -6,6 +6,10 @@
 
 
 }
+
+.mar{
+   margin: 0px 150px;
+}
 body{
    font-family: inter, sans-serif;
 }
@@ -147,7 +151,7 @@ height: 219px;
 .cols1{
    border:2px #caced6 solid;
 margin: auto; margin-top: 30px;
-   width: 1140px;
+   width: 900px;
    height: 200px;
    border-radius: 10px;
    padding: 60px 40px;
